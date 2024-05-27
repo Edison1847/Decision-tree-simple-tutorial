@@ -10,8 +10,12 @@ You can directly access the colab file directly fom the DT.ipynb file
 4. Visualization: Methods to visualize the decision tree for better understanding and interpretation.
 
 The tutorial is designed to be beginner-friendly, with clear explanations and commented code to help you understand the concepts and processes involved in decision tree classification.
+<br>
+<br>
+Link to the google Colab notebook:<br>
+https://colab.research.google.com/drive/1YJVHOPFNixihNNhBSLicPQmeNF6CXlSb?usp=sharing
 
-The dataset:
+The dataset:<br>
 Here you can find, slightly tweaked version of the publicly available heart disease dataset.
 You can access the original dataset from here,
 https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive
