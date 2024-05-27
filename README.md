@@ -17,5 +17,5 @@ https://colab.research.google.com/drive/1YJVHOPFNixihNNhBSLicPQmeNF6CXlSb?usp=sh
 
 The dataset:<br>
 Here you can find, slightly tweaked version of the publicly available heart disease dataset.
-You can access the original dataset from here,
+You can access the original dataset from here,<br>
 https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive
